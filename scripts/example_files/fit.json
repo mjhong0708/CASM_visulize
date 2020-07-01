@@ -1,0 +1,52 @@
+{
+  "problem_specs": {
+    "data": {
+      "filename": "train",
+      "type": "selection",
+      "X": "corr",
+      "y": "formation_energy",
+      "kwargs": null
+    },
+    "weight": {
+      "method": "wHullDist",
+      "kwargs": {
+        "A": 0.0,
+        "B": 1.0,
+        "kT": 0.01
+      }
+    },
+    "cv": {
+      "method": "KFold",
+      "kwargs": {
+        "n_splits": 10,
+        "shuffle": true
+      },
+      "penalty": 0.0
+    }
+  },
+  "estimator": {
+    "method": "LinearRegression"
+  },
+  "feature_selection": {
+    "method": "GeneticAlgorithm",
+    "kwargs": {
+      "constraints_kwargs": {
+        "n_features_max": "all",
+        "n_features_min": 5,
+        "fix_off": [],
+        "fix_on": []
+      },
+      "selTournamentSize": 3,
+      "mutFlipBitProb": 0.01,
+      "evolve_params_kwargs": {
+        "n_generation": 10,
+        "n_repetition": 25,
+        "n_features_init": 0,
+        "n_population": 100,
+        "n_halloffame": 50
+      },
+      "cxUniformProb": 0.5
+    }
+  },
+  "n_halloffame": 25
+}

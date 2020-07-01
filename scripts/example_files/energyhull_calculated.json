@@ -1,0 +1,137 @@
+[
+  {
+    "comp" : [
+      [ 0.000000000000 ]
+    ],
+    "configname" : "SCEL1_1_1_1_0_0_0/0",
+    "formation_energy" : 0.000000000000,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 1.000000000000 ]
+    ],
+    "configname" : "SCEL1_1_1_1_0_0_0/1",
+    "formation_energy" : 0.000000000001,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.500000000000 ]
+    ],
+    "configname" : "SCEL2_1_2_1_0_0_0/0",
+    "formation_energy" : -0.379199100000,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.333333333333 ]
+    ],
+    "configname" : "SCEL3_1_3_1_0_0_0/0",
+    "formation_energy" : -0.258368716667,
+    "hull_dist(CALCULATED,atom_frac)" : 0.012238759062,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.666666666667 ]
+    ],
+    "configname" : "SCEL3_1_3_1_0_0_0/1",
+    "formation_energy" : -0.314849516667,
+    "hull_dist(CALCULATED,atom_frac)" : 0.010152635294,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.333333333333 ]
+    ],
+    "configname" : "SCEL3_3_1_1_0_0_2/0",
+    "formation_energy" : -0.317937326667,
+    "hull_dist(CALCULATED,atom_frac)" : 0.001069644687,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.666666666667 ]
+    ],
+    "configname" : "SCEL3_3_1_1_0_0_2/1",
+    "formation_energy" : -0.372381116667,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.250000000000 ]
+    ],
+    "configname" : "SCEL4_1_4_1_0_0_0/0",
+    "formation_energy" : -0.206966702500,
+    "hull_dist(CALCULATED,atom_frac)" : 0.016932741905,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.500000000000 ]
+    ],
+    "configname" : "SCEL4_1_4_1_0_0_0/1",
+    "formation_energy" : -0.274070775000,
+    "hull_dist(CALCULATED,atom_frac)" : 0.019114240909,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.750000000000 ]
+    ],
+    "configname" : "SCEL4_1_4_1_0_0_0/2",
+    "formation_energy" : -0.268524212499,
+    "hull_dist(CALCULATED,atom_frac)" : 0.004719736087,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.250000000000 ]
+    ],
+    "configname" : "SCEL4_2_2_1_0_0_0/0",
+    "formation_energy" : -0.295863597500,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.750000000000 ]
+    ],
+    "configname" : "SCEL4_2_2_1_0_0_0/1",
+    "formation_energy" : -0.282803582499,
+    "hull_dist(CALCULATED,atom_frac)" : 0.002236367391,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.250000000000 ]
+    ],
+    "configname" : "SCEL4_4_1_1_0_0_2/0",
+    "formation_energy" : -0.262820177500,
+    "hull_dist(CALCULATED,atom_frac)" : 0.006293984762,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.500000000000 ]
+    ],
+    "configname" : "SCEL4_4_1_1_0_0_2/1",
+    "formation_energy" : -0.376214680000,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000542621818,
+    "selected" : true
+  },
+  {
+    "comp" : [
+      [ 0.750000000000 ]
+    ],
+    "configname" : "SCEL4_4_1_1_0_0_2/2",
+    "formation_energy" : -0.295662694999,
+    "hull_dist(CALCULATED,atom_frac)" : 0.000000000000,
+    "selected" : true
+  }
+]
